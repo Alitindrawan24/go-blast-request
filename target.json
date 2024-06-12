@@ -1,0 +1,13 @@
+{
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "method": "GET",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "body": {},
+    "query_params": {
+        "param1": "value1",
+        "param2": "value2"
+    },
+    "count": 10
+}
